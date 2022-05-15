@@ -4,8 +4,6 @@ Created using React and Framer Motion, The Void App is a web application for ven
 
 [See and interact with it live here](http://thevoidapp.com/).
 
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
