@@ -1,0 +1,27 @@
+@import-normalize;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  overflow: hidden;
+  font-size: 1.5rem;
+  background-image: url("./images/max-mckinnon-c9OCWLka764-unsplash.jpg");
+  background-size: cover;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 5px;
+  border: none;
+  font-size: 1.5rem;
+}
+
+@media screen and (max-width: 435px) {
+  body {
+    overflow-y: visible !important;
+  }
+}
