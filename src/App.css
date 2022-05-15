@@ -72,6 +72,11 @@ b {
   float: right;
   background-color: transparent;
   padding: 0;
+  color: black;
+}
+
+.alert-btn:focus {
+  background-color: transparent;
 }
 
 .close-icon {
@@ -102,6 +107,7 @@ b {
   padding: 0.4rem;
   width: 100%;
   text-transform: uppercase;
+  color: black;
 }
 
 .modal-content form {
@@ -157,6 +163,10 @@ b {
   border-radius: 5px;
   font-family: "Dosis", sans-serif;
   font-size: 1.5rem;
+}
+
+.scream-box textarea:focus {
+  outline: transparent;
 }
 
 .scream-content {
